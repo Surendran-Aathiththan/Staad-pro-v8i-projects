@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Foundation XMLType="1" STPRO="1">
+  <Units Length="m" Force="kN" Moment="kNm"></Units>
+  <BaseUnits Display="Metric"></BaseUnits>
+  <OpenFile Name="E:\Staad pro v8i projects\G+4\G+4_foundation.sfa"></OpenFile>
+<Support No="1">
+<Coord X="0.000000" Y="0.000000" Z="0.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="2">
+<Coord X="3.000000" Y="0.000000" Z="0.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="3">
+<Coord X="6.000000" Y="0.000000" Z="0.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="4">
+<Coord X="9.000000" Y="0.000000" Z="0.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="5">
+<Coord X="12.000000" Y="0.000000" Z="0.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="6">
+<Coord X="15.000000" Y="0.000000" Z="0.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="37">
+<Coord X="0.000000" Y="0.000000" Z="3.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="38">
+<Coord X="3.000000" Y="0.000000" Z="3.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="39">
+<Coord X="6.000000" Y="0.000000" Z="3.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="40">
+<Coord X="9.000000" Y="0.000000" Z="3.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="41">
+<Coord X="12.000000" Y="0.000000" Z="3.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="42">
+<Coord X="15.000000" Y="0.000000" Z="3.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="73">
+<Coord X="0.000000" Y="0.000000" Z="6.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="74">
+<Coord X="3.000000" Y="0.000000" Z="6.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="75">
+<Coord X="6.000000" Y="0.000000" Z="6.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="76">
+<Coord X="9.000000" Y="0.000000" Z="6.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="77">
+<Coord X="12.000000" Y="0.000000" Z="6.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="78">
+<Coord X="15.000000" Y="0.000000" Z="6.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="109">
+<Coord X="0.000000" Y="0.000000" Z="9.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="110">
+<Coord X="3.000000" Y="0.000000" Z="9.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="111">
+<Coord X="6.000000" Y="0.000000" Z="9.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="112">
+<Coord X="9.000000" Y="0.000000" Z="9.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="113">
+<Coord X="12.000000" Y="0.000000" Z="9.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="114">
+<Coord X="15.000000" Y="0.000000" Z="9.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="145">
+<Coord X="0.000000" Y="0.000000" Z="12.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="146">
+<Coord X="3.000000" Y="0.000000" Z="12.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="147">
+<Coord X="6.000000" Y="0.000000" Z="12.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="148">
+<Coord X="9.000000" Y="0.000000" Z="12.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="149">
+<Coord X="12.000000" Y="0.000000" Z="12.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<Support No="150">
+<Coord X="15.000000" Y="0.000000" Z="12.000000"></Coord>
+<PedSize Depth="0.600000" Width="0.400000"></PedSize>
+</Support>
+<LoadCase No="1">
+<Title>eqx</Title>
+<LoadType>Primary</LoadType>
+<LoadingType>SeismicX</LoadingType>
+<Reaction Node="1">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="28.138523" Fy="126.924156" Fz="0.807159" Mx="0.907607" My="0.073482" Mz="-71.016884"></Value>
+</Reaction>
+<Reaction Node="2">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="36.168030" Fy="2.643441" Fz="0.001195" Mx="0.008039" My="-0.003626" Mz="-79.546585"></Value>
+</Reaction>
+<Reaction Node="3">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="36.073288" Fy="-0.046449" Fz="0.004320" Mx="0.005443" My="-0.015207" Mz="-79.489738"></Value>
+</Reaction>
+<Reaction Node="4">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="36.073288" Fy="0.046481" Fz="-0.004320" Mx="-0.005443" My="-0.015207" Mz="-79.489738"></Value>
+</Reaction>
+<Reaction Node="5">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="36.168026" Fy="-2.643518" Fz="-0.001196" Mx="-0.008040" My="-0.003626" Mz="-79.546577"></Value>
+</Reaction>
+<Reaction Node="6">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="28.138523" Fy="-126.924118" Fz="-0.807159" Mx="-0.907607" My="0.073482" Mz="-71.016876"></Value>
+</Reaction>
+<Reaction Node="37">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="29.820848" Fy="147.111908" Fz="-0.016391" Mx="-0.000327" My="0.010486" Mz="-72.896202"></Value>
+</Reaction>
+<Reaction Node="38">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="38.734344" Fy="3.634299" Fz="-0.002376" Mx="-0.000241" My="0.004765" Mz="-82.302368"></Value>
+</Reaction>
+<Reaction Node="39">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="38.570679" Fy="0.012321" Fz="0.000854" Mx="0.001094" My="-0.000337" Mz="-82.153442"></Value>
+</Reaction>
+<Reaction Node="40">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="38.570679" Fy="-0.012271" Fz="-0.000854" Mx="-0.001094" My="-0.000337" Mz="-82.153442"></Value>
+</Reaction>
+<Reaction Node="41">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="38.734344" Fy="-3.634410" Fz="0.002377" Mx="0.000242" My="0.004765" Mz="-82.302368"></Value>
+</Reaction>
+<Reaction Node="42">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="29.820847" Fy="-147.111847" Fz="0.016391" Mx="0.000327" My="0.010486" Mz="-72.896194"></Value>
+</Reaction>
+<Reaction Node="73">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="29.854404" Fy="146.545334" Fz="-0.000001" Mx="-0.000001" My="-0.000000" Mz="-72.954735"></Value>
+</Reaction>
+<Reaction Node="74">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="38.760139" Fy="3.519959" Fz="-0.000000" Mx="-0.000000" My="-0.000000" Mz="-82.350128"></Value>
+</Reaction>
+<Reaction Node="75">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="38.575981" Fy="0.003455" Fz="-0.000000" Mx="-0.000000" My="-0.000000" Mz="-82.176941"></Value>
+</Reaction>
+<Reaction Node="76">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="38.575981" Fy="-0.003405" Fz="0.000000" Mx="0.000000" My="-0.000000" Mz="-82.176941"></Value>
+</Reaction>
+<Reaction Node="77">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="38.760139" Fy="-3.520070" Fz="0.000000" Mx="0.000000" My="-0.000000" Mz="-82.350128"></Value>
+</Reaction>
+<Reaction Node="78">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="29.854404" Fy="-146.545288" Fz="0.000001" Mx="0.000001" My="-0.000000" Mz="-72.954735"></Value>
+</Reaction>
+<Reaction Node="109">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="29.820847" Fy="147.111893" Fz="0.016391" Mx="0.000327" My="-0.010486" Mz="-72.896194"></Value>
+</Reaction>
+<Reaction Node="110">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="38.734344" Fy="3.634298" Fz="0.002376" Mx="0.000241" My="-0.004765" Mz="-82.302368"></Value>
+</Reaction>
+<Reaction Node="111">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="38.570679" Fy="0.012321" Fz="-0.000854" Mx="-0.001094" My="0.000337" Mz="-82.153442"></Value>
+</Reaction>
+<Reaction Node="112">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="38.570679" Fy="-0.012271" Fz="0.000854" Mx="0.001094" My="0.000337" Mz="-82.153442"></Value>
+</Reaction>
+<Reaction Node="113">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="38.734344" Fy="-3.634409" Fz="-0.002376" Mx="-0.000241" My="-0.004765" Mz="-82.302368"></Value>
+</Reaction>
+<Reaction Node="114">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="29.820847" Fy="-147.111847" Fz="-0.016391" Mx="-0.000327" My="-0.010486" Mz="-72.896194"></Value>
+</Reaction>
+<Reaction Node="145">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="28.138523" Fy="126.924156" Fz="-0.807159" Mx="-0.907608" My="-0.073482" Mz="-71.016876"></Value>
+</Reaction>
+<Reaction Node="146">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="36.168026" Fy="2.643442" Fz="-0.001196" Mx="-0.008039" My="0.003626" Mz="-79.546577"></Value>
+</Reaction>
+<Reaction Node="147">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="36.073288" Fy="-0.046449" Fz="-0.004320" Mx="-0.005443" My="0.015207" Mz="-79.489738"></Value>
+</Reaction>
+<Reaction Node="148">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="36.073288" Fy="0.046480" Fz="0.004320" Mx="0.005443" My="0.015207" Mz="-79.489738"></Value>
+</Reaction>
+<Reaction Node="149">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="36.168026" Fy="-2.643519" Fz="0.001197" Mx="0.008040" My="0.003626" Mz="-79.546577"></Value>
+</Reaction>
+<Reaction Node="150">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="28.138519" Fy="-126.924118" Fz="0.807159" Mx="0.907607" My="-0.073482" Mz="-71.016876"></Value>
+</Reaction>
+</LoadCase>
+<LoadCase No="2">
+<Title>eqy</Title>
+<LoadType>Primary</LoadType>
+<LoadingType>SeismicX</LoadingType>
+<Reaction Node="1">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="1.194396" Fy="143.406586" Fz="28.880587" Mx="61.791481" My="-0.067406" Mz="-1.350474"></Value>
+</Reaction>
+<Reaction Node="2">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.034647" Fy="160.773071" Fz="30.415789" Mx="63.497810" My="-0.011272" Mz="-0.089731"></Value>
+</Reaction>
+<Reaction Node="3">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.031781" Fy="160.342529" Fz="30.448002" Mx="63.548923" My="-0.003488" Mz="-0.051400"></Value>
+</Reaction>
+<Reaction Node="4">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.031782" Fy="160.342529" Fz="30.448002" Mx="63.548923" My="0.003488" Mz="0.051400"></Value>
+</Reaction>
+<Reaction Node="5">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.034645" Fy="160.773071" Fz="30.415789" Mx="63.497810" My="0.011272" Mz="0.089728"></Value>
+</Reaction>
+<Reaction Node="6">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-1.194396" Fy="143.406586" Fz="28.880587" Mx="61.791481" My="0.067406" Mz="1.350474"></Value>
+</Reaction>
+<Reaction Node="37">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.074591" Fy="-7.019901" Fz="36.938660" Mx="70.516518" My="0.005782" Mz="0.058621"></Value>
+</Reaction>
+<Reaction Node="38">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.012292" Fy="-8.409347" Fz="38.976761" Mx="72.742462" My="-0.006164" Mz="-0.024061"></Value>
+</Reaction>
+<Reaction Node="39">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.008708" Fy="-8.526651" Fz="38.984486" Mx="72.766594" My="-0.002261" Mz="-0.013941"></Value>
+</Reaction>
+<Reaction Node="40">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.008707" Fy="-8.526651" Fz="38.984486" Mx="72.766594" My="0.002261" Mz="0.013941"></Value>
+</Reaction>
+<Reaction Node="41">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.012292" Fy="-8.409347" Fz="38.976761" Mx="72.742462" My="0.006164" Mz="0.024061"></Value>
+</Reaction>
+<Reaction Node="42">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.074591" Fy="-7.019901" Fz="36.938663" Mx="70.516518" My="-0.005782" Mz="-0.058621"></Value>
+</Reaction>
+<Reaction Node="73">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.000001" Fy="0.000018" Fz="36.360558" Mx="69.905159" My="0.014940" Mz="-0.000001"></Value>
+</Reaction>
+<Reaction Node="74">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.000000" Fy="0.000038" Fz="38.277935" Mx="71.994698" My="-0.002383" Mz="0.000000"></Value>
+</Reaction>
+<Reaction Node="75">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.000000" Fy="0.000038" Fz="38.274868" Mx="72.006905" My="-0.001260" Mz="-0.000000"></Value>
+</Reaction>
+<Reaction Node="76">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.000000" Fy="0.000038" Fz="38.274868" Mx="72.006905" My="0.001260" Mz="0.000000"></Value>
+</Reaction>
+<Reaction Node="77">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.000000" Fy="0.000038" Fz="38.277935" Mx="71.994698" My="0.002383" Mz="-0.000000"></Value>
+</Reaction>
+<Reaction Node="78">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.000001" Fy="0.000018" Fz="36.360558" Mx="69.905159" My="-0.014940" Mz="0.000001"></Value>
+</Reaction>
+<Reaction Node="109">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.074591" Fy="7.019894" Fz="36.938660" Mx="70.516518" My="0.005782" Mz="-0.058620"></Value>
+</Reaction>
+<Reaction Node="110">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.012292" Fy="8.409320" Fz="38.976761" Mx="72.742470" My="-0.006164" Mz="0.024061"></Value>
+</Reaction>
+<Reaction Node="111">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.008708" Fy="8.526625" Fz="38.984486" Mx="72.766594" My="-0.002261" Mz="0.013941"></Value>
+</Reaction>
+<Reaction Node="112">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.008707" Fy="8.526625" Fz="38.984486" Mx="72.766594" My="0.002261" Mz="-0.013941"></Value>
+</Reaction>
+<Reaction Node="113">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.012292" Fy="8.409320" Fz="38.976761" Mx="72.742470" My="0.006164" Mz="-0.024061"></Value>
+</Reaction>
+<Reaction Node="114">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.074591" Fy="7.019895" Fz="36.938663" Mx="70.516518" My="-0.005782" Mz="0.058621"></Value>
+</Reaction>
+<Reaction Node="145">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-1.194396" Fy="-143.406601" Fz="28.880587" Mx="61.791481" My="-0.067406" Mz="1.350474"></Value>
+</Reaction>
+<Reaction Node="146">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.034647" Fy="-160.773102" Fz="30.415789" Mx="63.497810" My="-0.011272" Mz="0.089731"></Value>
+</Reaction>
+<Reaction Node="147">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.031781" Fy="-160.342545" Fz="30.448002" Mx="63.548923" My="-0.003488" Mz="0.051400"></Value>
+</Reaction>
+<Reaction Node="148">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.031782" Fy="-160.342545" Fz="30.448002" Mx="63.548923" My="0.003488" Mz="-0.051400"></Value>
+</Reaction>
+<Reaction Node="149">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.034645" Fy="-160.773102" Fz="30.415789" Mx="63.497810" My="0.011272" Mz="-0.089728"></Value>
+</Reaction>
+<Reaction Node="150">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="1.194396" Fy="-143.406601" Fz="28.880587" Mx="61.791481" My="0.067406" Mz="-1.350474"></Value>
+</Reaction>
+</LoadCase>
+<LoadCase No="3">
+<Title>wx</Title>
+<LoadType>Primary</LoadType>
+<LoadingType>WindX</LoadingType>
+<Reaction Node="1">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="2.221089" Fy="0.001149" Fz="-0.007377" Mx="-0.014695" My="-0.042348" Mz="-0.250186"></Value>
+</Reaction>
+<Reaction Node="2">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.084458" Fy="-0.003836" Fz="-0.009574" Mx="-0.017165" My="-0.008769" Mz="-0.154329"></Value>
+</Reaction>
+<Reaction Node="3">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.027632" Fy="0.001211" Fz="-0.008743" Mx="-0.015716" My="-0.001637" Mz="-0.050918"></Value>
+</Reaction>
+<Reaction Node="4">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.027632" Fy="0.001211" Fz="-0.008743" Mx="-0.015716" My="0.001637" Mz="0.050918"></Value>
+</Reaction>
+<Reaction Node="5">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.084458" Fy="-0.003836" Fz="-0.009574" Mx="-0.017165" My="0.008769" Mz="0.154329"></Value>
+</Reaction>
+<Reaction Node="6">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-2.221089" Fy="0.001149" Fz="-0.007377" Mx="-0.014695" My="0.042348" Mz="0.250186"></Value>
+</Reaction>
+<Reaction Node="37">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="4.328291" Fy="0.004564" Fz="-0.002619" Mx="-0.004426" My="-0.008743" Mz="-0.277399"></Value>
+</Reaction>
+<Reaction Node="38">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.094947" Fy="-0.004738" Fz="-0.004885" Mx="-0.008421" My="-0.005008" Mz="-0.171064"></Value>
+</Reaction>
+<Reaction Node="39">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.030504" Fy="0.002086" Fz="-0.005337" Mx="-0.009254" My="-0.001278" Mz="-0.055467"></Value>
+</Reaction>
+<Reaction Node="40">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.030504" Fy="0.002086" Fz="-0.005337" Mx="-0.009254" My="0.001278" Mz="0.055467"></Value>
+</Reaction>
+<Reaction Node="41">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.094947" Fy="-0.004738" Fz="-0.004885" Mx="-0.008421" My="0.005008" Mz="0.171064"></Value>
+</Reaction>
+<Reaction Node="42">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-4.328291" Fy="0.004564" Fz="-0.002619" Mx="-0.004426" My="0.008743" Mz="0.277399"></Value>
+</Reaction>
+<Reaction Node="73">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="4.329272" Fy="0.002754" Fz="0.000000" Mx="0.000000" My="0.000000" Mz="-0.279091"></Value>
+</Reaction>
+<Reaction Node="74">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.099089" Fy="-0.005338" Fz="0.000000" Mx="0.000000" My="0.000000" Mz="-0.178505"></Value>
+</Reaction>
+<Reaction Node="75">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.031968" Fy="0.001713" Fz="0.000000" Mx="0.000000" My="-0.000000" Mz="-0.058090"></Value>
+</Reaction>
+<Reaction Node="76">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.031968" Fy="0.001713" Fz="0.000000" Mx="0.000000" My="0.000000" Mz="0.058090"></Value>
+</Reaction>
+<Reaction Node="77">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.099089" Fy="-0.005338" Fz="0.000000" Mx="0.000000" My="-0.000000" Mz="0.178505"></Value>
+</Reaction>
+<Reaction Node="78">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-4.329272" Fy="0.002754" Fz="0.000000" Mx="0.000000" My="-0.000000" Mz="0.279091"></Value>
+</Reaction>
+<Reaction Node="109">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="4.328291" Fy="0.004564" Fz="0.002619" Mx="0.004426" My="0.008743" Mz="-0.277399"></Value>
+</Reaction>
+<Reaction Node="110">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.094947" Fy="-0.004738" Fz="0.004885" Mx="0.008421" My="0.005008" Mz="-0.171064"></Value>
+</Reaction>
+<Reaction Node="111">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.030504" Fy="0.002086" Fz="0.005337" Mx="0.009254" My="0.001278" Mz="-0.055467"></Value>
+</Reaction>
+<Reaction Node="112">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.030504" Fy="0.002086" Fz="0.005337" Mx="0.009254" My="-0.001278" Mz="0.055467"></Value>
+</Reaction>
+<Reaction Node="113">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.094947" Fy="-0.004738" Fz="0.004885" Mx="0.008421" My="-0.005008" Mz="0.171064"></Value>
+</Reaction>
+<Reaction Node="114">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-4.328291" Fy="0.004564" Fz="0.002619" Mx="0.004426" My="-0.008743" Mz="0.277399"></Value>
+</Reaction>
+<Reaction Node="145">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="2.221089" Fy="0.001149" Fz="0.007377" Mx="0.014695" My="0.042348" Mz="-0.250186"></Value>
+</Reaction>
+<Reaction Node="146">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.084458" Fy="-0.003836" Fz="0.009574" Mx="0.017165" My="0.008769" Mz="-0.154329"></Value>
+</Reaction>
+<Reaction Node="147">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.027632" Fy="0.001211" Fz="0.008743" Mx="0.015716" My="0.001637" Mz="-0.050918"></Value>
+</Reaction>
+<Reaction Node="148">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.027632" Fy="0.001211" Fz="0.008743" Mx="0.015716" My="-0.001637" Mz="0.050918"></Value>
+</Reaction>
+<Reaction Node="149">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.084458" Fy="-0.003836" Fz="0.009574" Mx="0.017165" My="-0.008769" Mz="0.154329"></Value>
+</Reaction>
+<Reaction Node="150">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-2.221089" Fy="0.001149" Fz="0.007377" Mx="0.014695" My="-0.042348" Mz="0.250186"></Value>
+</Reaction>
+</LoadCase>
+<LoadCase No="4">
+<Title>wy</Title>
+<LoadType>Primary</LoadType>
+<LoadingType>WindX</LoadingType>
+<Reaction Node="1">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.019802" Fy="-0.000058" Fz="2.145227" Mx="0.099907" My="0.043320" Mz="0.039203"></Value>
+</Reaction>
+<Reaction Node="2">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.008396" Fy="0.002600" Fz="4.243556" Mx="0.111858" My="0.009517" Mz="0.015266"></Value>
+</Reaction>
+<Reaction Node="3">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.002348" Fy="0.001272" Fz="4.243930" Mx="0.112505" My="0.001720" Mz="0.004387"></Value>
+</Reaction>
+<Reaction Node="4">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.002348" Fy="0.001272" Fz="4.243930" Mx="0.112505" My="-0.001720" Mz="-0.004387"></Value>
+</Reaction>
+<Reaction Node="5">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.008396" Fy="0.002600" Fz="4.243556" Mx="0.111858" My="-0.009517" Mz="-0.015266"></Value>
+</Reaction>
+<Reaction Node="6">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.019802" Fy="-0.000058" Fz="2.145227" Mx="0.099907" My="-0.043320" Mz="-0.039203"></Value>
+</Reaction>
+<Reaction Node="37">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.022563" Fy="-0.002617" Fz="0.029983" Mx="0.052071" My="0.008681" Mz="0.042544"></Value>
+</Reaction>
+<Reaction Node="38">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.013899" Fy="-0.002296" Fz="0.034090" Mx="0.058645" My="0.005252" Mz="0.025056"></Value>
+</Reaction>
+<Reaction Node="39">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.004250" Fy="-0.003138" Fz="0.035889" Mx="0.061785" My="0.001519" Mz="0.007733"></Value>
+</Reaction>
+<Reaction Node="40">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.004250" Fy="-0.003138" Fz="0.035889" Mx="0.061785" My="-0.001519" Mz="-0.007733"></Value>
+</Reaction>
+<Reaction Node="41">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.013899" Fy="-0.002296" Fz="0.034090" Mx="0.058645" My="-0.005252" Mz="-0.025056"></Value>
+</Reaction>
+<Reaction Node="42">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.022563" Fy="-0.002617" Fz="0.029983" Mx="0.052071" My="-0.008681" Mz="-0.042544"></Value>
+</Reaction>
+<Reaction Node="73">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.021632" Fy="0.001912" Fz="-0.000000" Mx="-0.000000" My="0.000000" Mz="0.040881"></Value>
+</Reaction>
+<Reaction Node="74">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.015768" Fy="0.003650" Fz="-0.000000" Mx="-0.000000" My="0.000000" Mz="0.028486"></Value>
+</Reaction>
+<Reaction Node="75">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.005310" Fy="0.002910" Fz="-0.000000" Mx="-0.000000" My="0.000000" Mz="0.009642"></Value>
+</Reaction>
+<Reaction Node="76">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.005310" Fy="0.002910" Fz="-0.000000" Mx="-0.000000" My="-0.000000" Mz="-0.009642"></Value>
+</Reaction>
+<Reaction Node="77">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.015768" Fy="0.003650" Fz="-0.000000" Mx="-0.000000" My="-0.000000" Mz="-0.028486"></Value>
+</Reaction>
+<Reaction Node="78">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.021632" Fy="0.001912" Fz="-0.000000" Mx="-0.000000" My="-0.000000" Mz="-0.040881"></Value>
+</Reaction>
+<Reaction Node="109">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.022563" Fy="-0.002617" Fz="-0.029983" Mx="-0.052071" My="-0.008681" Mz="0.042544"></Value>
+</Reaction>
+<Reaction Node="110">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.013899" Fy="-0.002296" Fz="-0.034090" Mx="-0.058645" My="-0.005252" Mz="0.025056"></Value>
+</Reaction>
+<Reaction Node="111">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.004250" Fy="-0.003138" Fz="-0.035889" Mx="-0.061785" My="-0.001519" Mz="0.007733"></Value>
+</Reaction>
+<Reaction Node="112">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.004250" Fy="-0.003138" Fz="-0.035889" Mx="-0.061785" My="0.001519" Mz="-0.007733"></Value>
+</Reaction>
+<Reaction Node="113">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.013899" Fy="-0.002296" Fz="-0.034090" Mx="-0.058645" My="0.005252" Mz="-0.025056"></Value>
+</Reaction>
+<Reaction Node="114">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.022563" Fy="-0.002617" Fz="-0.029983" Mx="-0.052071" My="0.008681" Mz="-0.042544"></Value>
+</Reaction>
+<Reaction Node="145">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.019802" Fy="-0.000058" Fz="-2.145227" Mx="-0.099907" My="-0.043320" Mz="0.039203"></Value>
+</Reaction>
+<Reaction Node="146">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.008396" Fy="0.002600" Fz="-4.243556" Mx="-0.111858" My="-0.009517" Mz="0.015266"></Value>
+</Reaction>
+<Reaction Node="147">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.002348" Fy="0.001272" Fz="-4.243930" Mx="-0.112505" My="-0.001720" Mz="0.004387"></Value>
+</Reaction>
+<Reaction Node="148">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.002348" Fy="0.001272" Fz="-4.243930" Mx="-0.112505" My="0.001720" Mz="-0.004387"></Value>
+</Reaction>
+<Reaction Node="149">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.008396" Fy="0.002600" Fz="-4.243556" Mx="-0.111858" My="0.009517" Mz="-0.015266"></Value>
+</Reaction>
+<Reaction Node="150">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.019802" Fy="-0.000058" Fz="-2.145227" Mx="-0.099907" My="0.043320" Mz="-0.039203"></Value>
+</Reaction>
+</LoadCase>
+<LoadCase No="5">
+<Title>dl</Title>
+<LoadType>Primary</LoadType>
+<LoadingType>Dead</LoadingType>
+<Reaction Node="1">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-4.406892" Fy="-783.226990" Fz="-0.805301" Mx="-0.868162" My="0.035951" Mz="4.765334"></Value>
+</Reaction>
+<Reaction Node="2">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.579615" Fy="-1012.517151" Fz="-1.020267" Mx="-1.104755" My="0.009878" Mz="0.690698"></Value>
+</Reaction>
+<Reaction Node="3">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.081175" Fy="-1034.125122" Fz="-1.069260" Mx="-1.158337" My="0.001497" Mz="0.111502"></Value>
+</Reaction>
+<Reaction Node="4">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.081175" Fy="-1034.125122" Fz="-1.069260" Mx="-1.158337" My="-0.001497" Mz="-0.111503"></Value>
+</Reaction>
+<Reaction Node="5">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.579614" Fy="-1012.517212" Fz="-1.020267" Mx="-1.104756" My="-0.009878" Mz="-0.690697"></Value>
+</Reaction>
+<Reaction Node="6">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="4.406894" Fy="-783.227051" Fz="-0.805301" Mx="-0.868162" My="-0.035951" Mz="-4.765337"></Value>
+</Reaction>
+<Reaction Node="37">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-4.674219" Fy="-864.526367" Fz="-0.126392" Mx="-0.137828" My="0.004956" Mz="5.015313"></Value>
+</Reaction>
+<Reaction Node="38">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.721185" Fy="-1126.043701" Fz="-0.199739" Mx="-0.219507" My="0.004548" Mz="0.828674"></Value>
+</Reaction>
+<Reaction Node="39">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.093871" Fy="-1154.026855" Fz="-0.217525" Mx="-0.238525" My="0.001442" Mz="0.122644"></Value>
+</Reaction>
+<Reaction Node="40">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.093871" Fy="-1154.026855" Fz="-0.217524" Mx="-0.238525" My="-0.001442" Mz="-0.122645"></Value>
+</Reaction>
+<Reaction Node="41">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.721184" Fy="-1126.043701" Fz="-0.199740" Mx="-0.219507" My="-0.004548" Mz="-0.828673"></Value>
+</Reaction>
+<Reaction Node="42">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="4.674220" Fy="-864.526428" Fz="-0.126392" Mx="-0.137828" My="-0.004956" Mz="-5.015316"></Value>
+</Reaction>
+<Reaction Node="73">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-4.696782" Fy="-872.507324" Fz="0.000000" Mx="0.000000" My="-0.000000" Mz="5.034672"></Value>
+</Reaction>
+<Reaction Node="74">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.736956" Fy="-1138.058350" Fz="-0.000000" Mx="0.000000" My="-0.000000" Mz="0.842158"></Value>
+</Reaction>
+<Reaction Node="75">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.095376" Fy="-1167.205444" Fz="-0.000000" Mx="0.000000" My="-0.000000" Mz="0.123276"></Value>
+</Reaction>
+<Reaction Node="76">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.095376" Fy="-1167.205444" Fz="0.000000" Mx="0.000000" My="-0.000000" Mz="-0.123277"></Value>
+</Reaction>
+<Reaction Node="77">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.736954" Fy="-1138.058350" Fz="-0.000000" Mx="0.000000" My="0.000000" Mz="-0.842158"></Value>
+</Reaction>
+<Reaction Node="78">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="4.696783" Fy="-872.507385" Fz="0.000000" Mx="0.000000" My="0.000000" Mz="-5.034674"></Value>
+</Reaction>
+<Reaction Node="109">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-4.674219" Fy="-864.526367" Fz="0.126393" Mx="0.137829" My="-0.004956" Mz="5.015313"></Value>
+</Reaction>
+<Reaction Node="110">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.721185" Fy="-1126.043579" Fz="0.199740" Mx="0.219507" My="-0.004548" Mz="0.828674"></Value>
+</Reaction>
+<Reaction Node="111">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.093871" Fy="-1154.026733" Fz="0.217525" Mx="0.238526" My="-0.001442" Mz="0.122644"></Value>
+</Reaction>
+<Reaction Node="112">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.093871" Fy="-1154.026733" Fz="0.217525" Mx="0.238526" My="0.001442" Mz="-0.122645"></Value>
+</Reaction>
+<Reaction Node="113">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.721184" Fy="-1126.043701" Fz="0.199740" Mx="0.219507" My="0.004548" Mz="-0.828673"></Value>
+</Reaction>
+<Reaction Node="114">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="4.674220" Fy="-864.526367" Fz="0.126393" Mx="0.137829" My="0.004956" Mz="-5.015316"></Value>
+</Reaction>
+<Reaction Node="145">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-4.406892" Fy="-783.226990" Fz="0.805301" Mx="0.868162" My="-0.035951" Mz="4.765334"></Value>
+</Reaction>
+<Reaction Node="146">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.579615" Fy="-1012.517151" Fz="1.020267" Mx="1.104755" My="-0.009878" Mz="0.690698"></Value>
+</Reaction>
+<Reaction Node="147">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.081175" Fy="-1034.125122" Fz="1.069259" Mx="1.158337" My="-0.001497" Mz="0.111502"></Value>
+</Reaction>
+<Reaction Node="148">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.081175" Fy="-1034.125122" Fz="1.069259" Mx="1.158336" My="0.001497" Mz="-0.111503"></Value>
+</Reaction>
+<Reaction Node="149">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.579614" Fy="-1012.517212" Fz="1.020267" Mx="1.104756" My="0.009878" Mz="-0.690697"></Value>
+</Reaction>
+<Reaction Node="150">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="4.406894" Fy="-783.227051" Fz="0.805301" Mx="0.868162" My="0.035951" Mz="-4.765337"></Value>
+</Reaction>
+</LoadCase>
+<LoadCase No="6">
+<Title>ll</Title>
+<LoadType>Primary</LoadType>
+<LoadingType>Live</LoadingType>
+<Reaction Node="1">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.433079" Fy="-31.090191" Fz="-0.371880" Mx="-0.405317" My="0.000316" Mz="0.468727"></Value>
+</Reaction>
+<Reaction Node="2">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.069040" Fy="-54.803612" Fz="-0.661207" Mx="-0.717161" My="0.000551" Mz="0.081908"></Value>
+</Reaction>
+<Reaction Node="3">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.009554" Fy="-57.242569" Fz="-0.678840" Mx="-0.736265" My="0.000109" Mz="0.013207"></Value>
+</Reaction>
+<Reaction Node="4">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.009554" Fy="-57.242561" Fz="-0.678840" Mx="-0.736265" My="-0.000109" Mz="-0.013207"></Value>
+</Reaction>
+<Reaction Node="5">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.069039" Fy="-54.803619" Fz="-0.661208" Mx="-0.717161" My="-0.000552" Mz="-0.081907"></Value>
+</Reaction>
+<Reaction Node="6">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.433080" Fy="-31.090191" Fz="-0.371880" Mx="-0.405317" My="-0.000316" Mz="-0.468728"></Value>
+</Reaction>
+<Reaction Node="37">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.807014" Fy="-56.957088" Fz="-0.031393" Mx="-0.036393" My="-0.000204" Mz="0.862658"></Value>
+</Reaction>
+<Reaction Node="38">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.115014" Fy="-100.043839" Fz="-0.048841" Mx="-0.055111" My="0.000087" Mz="0.130720"></Value>
+</Reaction>
+<Reaction Node="39">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.013313" Fy="-104.317238" Fz="-0.052119" Mx="-0.058708" My="0.000026" Mz="0.017288"></Value>
+</Reaction>
+<Reaction Node="40">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.013313" Fy="-104.317238" Fz="-0.052119" Mx="-0.058708" My="-0.000026" Mz="-0.017288"></Value>
+</Reaction>
+<Reaction Node="41">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.115013" Fy="-100.043854" Fz="-0.048841" Mx="-0.055111" My="-0.000087" Mz="-0.130720"></Value>
+</Reaction>
+<Reaction Node="42">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.807014" Fy="-56.957088" Fz="-0.031393" Mx="-0.036393" My="0.000204" Mz="-0.862659"></Value>
+</Reaction>
+<Reaction Node="73">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.817563" Fy="-59.190929" Fz="-0.000000" Mx="-0.000000" My="-0.000000" Mz="0.874106"></Value>
+</Reaction>
+<Reaction Node="74">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.119262" Fy="-103.622093" Fz="-0.000000" Mx="-0.000000" My="-0.000000" Mz="0.135512"></Value>
+</Reaction>
+<Reaction Node="75">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.014425" Fy="-108.278084" Fz="-0.000000" Mx="-0.000000" My="-0.000000" Mz="0.018559"></Value>
+</Reaction>
+<Reaction Node="76">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.014425" Fy="-108.278084" Fz="-0.000000" Mx="-0.000000" My="-0.000000" Mz="-0.018559"></Value>
+</Reaction>
+<Reaction Node="77">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.119262" Fy="-103.622101" Fz="-0.000000" Mx="-0.000000" My="-0.000000" Mz="-0.135511"></Value>
+</Reaction>
+<Reaction Node="78">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.817564" Fy="-59.190929" Fz="-0.000000" Mx="-0.000000" My="0.000000" Mz="-0.874106"></Value>
+</Reaction>
+<Reaction Node="109">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.807014" Fy="-56.957085" Fz="0.031394" Mx="0.036393" My="0.000204" Mz="0.862658"></Value>
+</Reaction>
+<Reaction Node="110">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.115014" Fy="-100.043839" Fz="0.048841" Mx="0.055111" My="-0.000087" Mz="0.130720"></Value>
+</Reaction>
+<Reaction Node="111">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.013313" Fy="-104.317238" Fz="0.052119" Mx="0.058708" My="-0.000026" Mz="0.017288"></Value>
+</Reaction>
+<Reaction Node="112">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.013313" Fy="-104.317238" Fz="0.052119" Mx="0.058708" My="0.000026" Mz="-0.017288"></Value>
+</Reaction>
+<Reaction Node="113">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.115013" Fy="-100.043854" Fz="0.048841" Mx="0.055111" My="0.000087" Mz="-0.130720"></Value>
+</Reaction>
+<Reaction Node="114">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.807014" Fy="-56.957085" Fz="0.031394" Mx="0.036393" My="-0.000204" Mz="-0.862658"></Value>
+</Reaction>
+<Reaction Node="145">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.433079" Fy="-31.090189" Fz="0.371880" Mx="0.405317" My="-0.000316" Mz="0.468727"></Value>
+</Reaction>
+<Reaction Node="146">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.069040" Fy="-54.803608" Fz="0.661207" Mx="0.717161" My="-0.000552" Mz="0.081908"></Value>
+</Reaction>
+<Reaction Node="147">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="-0.009554" Fy="-57.242561" Fz="0.678840" Mx="0.736265" My="-0.000109" Mz="0.013207"></Value>
+</Reaction>
+<Reaction Node="148">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.009554" Fy="-57.242558" Fz="0.678840" Mx="0.736265" My="0.000109" Mz="-0.013207"></Value>
+</Reaction>
+<Reaction Node="149">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.069039" Fy="-54.803616" Fz="0.661207" Mx="0.717161" My="0.000552" Mz="-0.081907"></Value>
+</Reaction>
+<Reaction Node="150">
+<ReactionUnits Force="kN" Moment="kNm"></ReactionUnits>
+<Value Fx="0.433080" Fy="-31.090189" Fz="0.371880" Mx="0.405317" My="0.000316" Mz="-0.468728"></Value>
+</Reaction>
+</LoadCase></Foundation>
